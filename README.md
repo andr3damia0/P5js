@@ -1,7 +1,7 @@
 # P5js
 códigos da laboratório de música eletrônica da EMESP.
 
-# Aula p5.js para Música Eletrônica
+# Aula 1 p5.js 
 
 Código e slides da aula introdutória com p5.js.
 
