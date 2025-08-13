@@ -1,5 +1,8 @@
 // Part 1 — Minimal: oscillator + fixed ADSR
 // Requires p5.js and p5.sound included in the HTML.
+//https://p5js.org/reference/p5.sound/p5.Envelope/
+//https://p5js.org/reference/p5.sound/p5.Oscillator/
+
 let osc, env;
 
 function setup() {
